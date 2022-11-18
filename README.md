@@ -1,5 +1,5 @@
 ### Hello, there! I'm Bruno. <img display:flex height="60em" src="./kenobi.gif">
-
+##
   - 📚I'm a Control and Automation Engineering student - UFSC;
   - 💻Currently learning (apart from college):
     - Python for process control and simulation;
