@@ -1,7 +1,5 @@
-### Greetings! I'm Bruno.
-<div>
-  <img height="30em" src=""  
-</div>
+### Hello, there! I'm Bruno. <img align="" height="60em" src="./c62.gif">
+
 
 <div align="left">
   <a href="https://github.com/brunobronzeri">
