@@ -1,5 +1,10 @@
-### Hello, there! I'm Bruno. <img align="" height="60em" src="./c62.gif">
+### Hello, there! I'm Bruno. <img align="" height="60em" src="./kenobi.gif">
 
+  - 📚I'm a Control and Automation Engineering student - UFSC;
+  - 💻Currently learning (apart from college):
+    - Python for process control and simulation;
+    - Full-Stack Development;
+  - 📧Contact me by email: brunobronzeri01@gmailcom or brunobronzeri@icloud.com
 
 <div align="left">
   <a href="https://github.com/brunobronzeri">
