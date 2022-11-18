@@ -4,7 +4,7 @@
   - 💻Currently learning (apart from college):
     - Python for process control and simulation;
     - Full-Stack Development;
-  - 📧Contact me by email: brunobronzeri01@gmailcom or brunobronzeri@icloud.com
+  - 📧Contact me by email: brunobronzeri01@gmail.com or brunobronzeri@icloud.com
 
 <div align="left">
   <a href="https://github.com/brunobronzeri">
