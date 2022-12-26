@@ -3,7 +3,7 @@
   - 📚I'm a Control and Automation Engineering student - UFSC;
   - 💻Currently learning (apart from college):
     - Python for process control and simulation;
-    - Full-Stack Development;
+    - Full-Stack Development (React/Node.js);
   - 📧Contact me by email: brunobronzeri01@gmail.com or brunobronzeri@icloud.com
 
 <div align="left">
