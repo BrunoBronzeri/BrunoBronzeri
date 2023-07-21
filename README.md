@@ -35,4 +35,4 @@
   
   ##
   
-
+![Snake animation](https://github.com/BrunoBronzeri/BrunoBronzeri/blob/output/github-contribution-grid-snake.svg)
