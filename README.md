@@ -6,6 +6,7 @@
     - Full-Stack Development (React/Node.js);
   - 📧Contact me by email: brunobronzeri01@gmail.com or brunobronzeri@icloud.com
 
+<!--
 <div align="left">
   <a href="https://github.com/brunobronzeri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobronzeri&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -22,7 +23,7 @@
   <img align="center" alt="B-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="B-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
-  
+  -->
   ##
   
 <div>
