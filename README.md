@@ -2,7 +2,7 @@
 ##
   - 📚Control and Automation Engineering student - UFSC;
   - 💻Currently learning (apart from college):
-    - Python for process control and simulation;
+    - Python for Webservices and server, Embedded Systems and Database integration;
     - Full-Stack Development (React/Node.js);
   - 📧Contact me by email: brunobronzeri01@gmail.com or brunobronzeri@icloud.com
 
