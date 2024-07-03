@@ -45,7 +45,7 @@
     <img height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:brunobronzeri01@gmail.com">
-    <img src="./Gmail_icon.svg"/>
+    <img height="45" width="60" src="Gmail_icon.svg"/>
   </a>
 <!--   <a href="https://instagram.com/bruno.bronzeri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a>|</a>
