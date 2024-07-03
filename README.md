@@ -1,4 +1,4 @@
-### Hello, there! <img display:flex height="60em" src="./kenobi.gif">
+## Hello, there! <img display:flex height="60em" src="./kenobi.gif">
 ##
   - 📚Control and Automation Engineering student - UFSC;
   - 💻Currently learning (apart from college):
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobronzeri&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-## Languages
+### Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="B-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="B-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -26,10 +26,15 @@
   <img align="center" alt="B-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 
-## Technologies
-<div align="left">
+### Technologies
+<div style="display: inline_block" >
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="embedded" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
+          
 </div>
 
 ##
