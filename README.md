@@ -28,7 +28,7 @@
           
 </div>
 
-### Technologies
+### Technologies and Frameworks
 <div style="display: inline_block" >
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="flask" height="30" width="40" src="./flask_icon.png" />
@@ -37,7 +37,7 @@
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="embedded" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
-          
+  <img align="center" alt="opencv" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />          
 </div>
 
 ##
@@ -47,7 +47,7 @@
     <img height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:brunobronzeri01@gmail.com">
-    <img height="45" width="60" src="./Gmail_icon.svg"/>
+    <img height="45" width="60" src="./gmail_icon.png"/>
   </a>
 <!--   <a href="https://instagram.com/bruno.bronzeri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a>|</a>
