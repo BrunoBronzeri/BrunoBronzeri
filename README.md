@@ -2,8 +2,10 @@
 ##
   - 📚Control and Automation Engineering student - UFSC;
   - 💻Currently learning (apart from college):
-    - Python for Webservices and server, Embedded Systems and Database integration;
-    - Full-Stack Development (React/Node.js);
+    - *Software Architecture & Development:* Focusing on designing scalable architectures,
+      SaaS platforms, API design, and back-end development with .NET and C#;
+    - *System & Data Integration:* Hands-on learning in relational database design (SQL),
+      software integration, and building robust data flows between applications.
   - 📧Contact me by email: brunobronzeri01@gmail.com or brunobronzeri@icloud.com
 
 <!--
@@ -41,7 +43,10 @@
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img align="center" alt="embedded" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
-  <img align="center" alt="opencv" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />          
+  <img align="center" alt="opencv" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+  <img align="center" alt="dotnet" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="dotnet" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+          
 </div>
 
 ##
