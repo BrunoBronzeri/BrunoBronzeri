@@ -2,9 +2,9 @@
 ##
   - 📚Control and Automation Engineering student - UFSC;
   - 💻Currently learning (apart from college):
-    - *Software Architecture & Development:* Focusing on designing scalable architectures,
+    - **Software Architecture & Development:** Focusing on designing scalable architectures,
       SaaS platforms, API design, and back-end development with .NET and C#;
-    - *System & Data Integration:* Hands-on learning in relational database design (SQL),
+    - **System & Data Integration:** Hands-on learning in relational database design (SQL),
       software integration, and building robust data flows between applications.
   - 📧Contact me by email: brunobronzeri01@gmail.com or brunobronzeri@icloud.com
 
@@ -66,3 +66,5 @@
   ##
   
 ![Snake animation](https://github.com/BrunoBronzeri/BrunoBronzeri/blob/output/github-contribution-grid-snake.svg)
+
+**May the code be with you**
