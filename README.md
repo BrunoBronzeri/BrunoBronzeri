@@ -1,7 +1,7 @@
 ## Hello, there! <img display:flex height="60em" src="./kenobi.gif">
 ##
-  - 📚Control and Automation Engineering student - UFSC;
-  - 💻Currently learning (apart from college):
+  - 📚Control and Automation Engineer - UFSC;
+  - 💻Currently delving deeper:
     - **Software Architecture & Development:** Focusing on designing scalable architectures,
       SaaS platforms, API design, and back-end development with .NET and C#;
     - **System & Data Integration:** Hands-on learning in relational database design (SQL),
